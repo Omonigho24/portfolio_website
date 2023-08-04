@@ -27,11 +27,11 @@ const siteProps = {
   name: "Faith Oseghale",
   title: "Data Analyst, Technical Writer & Content Creator",
   email: "faith.oseghale@outlook.com",
-  gitHub: "https://github.com/Omonigho24",
+  gitHub: "Omonigho24",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/faith-oseghale-b58310224/",
-  medium: "https://medium.com/@faith_oseghale",
-  twitter: "https://twitter.com/OseghaleFaithO1",
+  linkedIn: "faith-oseghale-b58310224/",
+  medium: "@faith_oseghale",
+  twitter: "OseghaleFaithO1",
   youTube: "",
 };
 
